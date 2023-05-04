@@ -1,0 +1,11 @@
+<!-- public/robot.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="currentColor">
+  <circle cx="32" cy="20" r="10" />
+  <circle cx="22" cy="20" r="2" />
+  <circle cx="42" cy="20" r="2" />
+  <rect x="16" y="30" width="32" height="20" rx="4" ry="4" />
+  <rect x="26" y="40" width="4" height="4" />
+  <rect x="34" y="40" width="4" height="4" />
+  <path d="M12,50 L20,50 L20,58 L12,58 Z M44,50 L52,50 L52,58 L44,58 Z" />
+  <path d="M24,2 L40,2 L40,10 L24,10 Z" />
+</svg>

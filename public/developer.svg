@@ -1,0 +1,10 @@
+<!-- public/developer.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="currentColor">
+  <circle cx="32" cy="16" r="8" />
+  <rect x="24" y="24" width="16" height="28" rx="4" ry="4" />
+  <rect x="16" y="30" width="4" height="4" />
+  <rect x="44" y="30" width="4" height="4" />
+  <path d="M22,8 L24,16 L20,16 Z" />
+  <path d="M42,8 L40,16 L44,16 Z" />
+  <path d="M28,2 L36,2 L36,6 L28,6 Z" />
+</svg>
